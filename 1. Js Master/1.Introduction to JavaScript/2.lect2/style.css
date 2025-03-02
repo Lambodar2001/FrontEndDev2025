@@ -1,0 +1,13 @@
+body{
+    background-color: #a29a9a;
+}
+
+.one{
+    background-color: aquamarine;
+    max-width: 500px;
+    padding: 100px;
+}
+
+.two{
+    background-color: blueviolet;
+}
