@@ -13,3 +13,17 @@ for(let i =1;i<=100;i++){
     block.append(newImg, text)
 
 }
+
+
+
+// btn.addEventListener('click', (e)=>{
+
+//     const newCard= document.createElement('div');
+//     newCard.classList.add('card')          *******************************
+//     container.appendChild(newCard)
+//     newCard.innerText=val;
+//     val++
+    
+
+
+// })
