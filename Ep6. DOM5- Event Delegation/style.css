@@ -1,0 +1,35 @@
+
+body{
+
+    background-color:bisque;
+}
+
+.container{
+
+
+    display: flex;
+
+}
+
+
+.card{
+
+    height: 100px;
+    width: 100px;
+    background-color:cadetblue;
+    margin: 10px;
+    border: 2px solid black;
+}
+
+.btn {
+
+    padding: 10px;
+    margin: 10px;
+    border-radius:10px;
+    background-color:burlywood;
+
+    position: absolute;
+
+    right: 0px;
+    bottom: 0px;
+}
