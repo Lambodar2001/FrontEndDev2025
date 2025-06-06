@@ -1,0 +1,23 @@
+
+.db{
+
+    margin-top: 100px;
+    background-color:rgb(255, 219, 175);
+
+    height: 300px;
+    width: 200px;
+    border-radius: 10px;
+}
+
+.rack{
+
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.db p {
+
+    text-align: center;
+    align-items: center;
+}
