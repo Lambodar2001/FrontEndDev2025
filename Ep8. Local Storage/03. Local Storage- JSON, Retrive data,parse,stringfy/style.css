@@ -1,0 +1,35 @@
+
+.db{
+
+    margin-top: 100px;
+    background-color:rgb(255, 219, 175);
+
+    height: 300px;
+    width: 200px;
+    border-radius: 10px;
+}
+
+.rack{
+
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.db p {
+
+    text-align: center;
+    align-items: center;
+}
+
+.clear{
+  background-color: #04AA6D; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  margin-block: 20px;
+  border-radius: 20px;
+}
